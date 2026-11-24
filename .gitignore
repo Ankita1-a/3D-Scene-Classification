@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model checkpoints and outputs
+*.pth
+*.pt
+predictions.csv
+
+# Data (download from Kaggle instead)
+data/
+train/
+test/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
