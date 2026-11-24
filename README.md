@@ -1,4 +1,4 @@
-# Compositional Scene Classification with EfficientNet
+# 3D Scene Classification with EfficientNet
 
 **IIT Hyderabad Deep Learning Hackathon 2026 (Kaggle)**
 
@@ -80,7 +80,7 @@ A CUDA GPU is strongly recommended. We trained on a single NVIDIA T4 (Kaggle fre
 
 ### Data layout
 
-Download the competition data from Kaggle. The script expects:
+The data needs to be downloaded from kaggle. The script expects:
 
 ```
 <data_dir>/
